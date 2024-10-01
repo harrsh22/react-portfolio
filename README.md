@@ -1,6 +1,6 @@
 # Harrshithaa Sridhar's Portfolio
 
-Welcome to my personal portfolio website! This portfolio showcases my work as a **Frontend Developer**, highlighting my skills, projects, and professional experiences. Built using  **React **Next.js** and **Tailwind CSS**, the site is fully responsive and features smooth animations for an engaging user experience.
+Welcome to my personal portfolio website! This portfolio showcases my work as a **Frontend Developer**, highlighting my skills, projects, and professional experiences. Built using  React **Next.js** and **Tailwind CSS**, the site is fully responsive and features smooth animations for an engaging user experience.
 
 ## About
 
