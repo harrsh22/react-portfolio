@@ -36,48 +36,6 @@ You will need Node.js installed on your machine. You can download it from here.
 Installation
 Clone this repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/yourusername/your-portfolio.git
-Navigate into the project directory:
-
-bash
-Copy code
-cd your-portfolio
-Install the dependencies:
-
-bash
-Copy code
-npm install
-Running the development server
-To run the project locally on your machine:
-
-bash
-Copy code
-npm run dev
-The site will run at http://localhost:3000.
-
-Build for production
-To create an optimized production build, run:
-
-bash
-Copy code
-npm run build
-npm start
-Deployment
-This project can easily be deployed to Netlify.
-
-Steps for deployment on Netlify:
-Connect the repository to Netlify.
-Set the Build Command to:
-arduino
-Copy code
-npm run build
-Set the Publish Directory to:
-lua
-Copy code
-.next
-After successful deployment, your site should be live!
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
