@@ -45,3 +45,10 @@ Ensure you have **Node.js** installed. You can download it from [here](https://n
 ```bash
 git clone https://github.com/your-username/portfolio.git
 cd portfolio
+
+Contact
+Feel free to reach out to me via email or connect on LinkedIn:
+
+Email: harrshithaasri@gmail.com
+GitHub: github.com/harrsh22
+LinkedIn: linkedin.com/in/harrshithaa-sridhar
