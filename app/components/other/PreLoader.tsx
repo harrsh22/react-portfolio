@@ -96,7 +96,7 @@ const PreLoader: React.FC = () => {
                 }}
             >
                 <span></span>
-                <span> / </span>
+                <span> ;D </span>
                
                 <span className="flex items-center justify-center gap-3"> </span>
                 <div className="sub hidden"></div>
