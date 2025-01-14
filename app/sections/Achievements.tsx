@@ -47,7 +47,7 @@ const Achievements = () => {
 
           {/* Achievement 2: Ramanujam Maths Quiz */}
           <div className="p-6 bg-[#1b1e23] rounded-lg shadow-lg hover:shadow-2xl hover:scale-110 transition duration-300 transform">
-            <a href="/harrshithaasridhar" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/posts/harrshithaa-sridhar_connections-svce-mathsquiz-activity-6970044550778081281-Oaau?utm_source=share&utm_medium=member_desktop" target="_blank" rel="noopener noreferrer">
               <AnimatedBody
                 delay={0.2}
                 text="2021"
